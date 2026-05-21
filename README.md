@@ -116,7 +116,7 @@ Background: 8-month cybersecurity internship (networking, penetration testing) +
 
 - 💼 Portfolio: *coming soon*
 - 🐦 Twitter / X: *coming soon*
-- 💌 Email: *coming soon*
+- 💌 Email: *nicolasproperties3@gmail.com*
 
 ---
 
