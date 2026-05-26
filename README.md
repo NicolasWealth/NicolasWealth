@@ -114,7 +114,7 @@ Background: 8-month cybersecurity internship (networking, penetration testing) +
 
 ## 📬 Connect
 
-- 💼 Portfolio: *coming soon*
+- 💼 Portfolio: *(https://nicolaswealth.netlify.app/)*
 - 🐦 Twitter / X: *coming soon*
 - 💌 Email: *nicolasproperties3@gmail.com*
 
