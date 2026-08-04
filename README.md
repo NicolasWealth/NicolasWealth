@@ -3,7 +3,7 @@
 # Nicolas Wealth
 ### AI Security Engineer (in training) · Full-Stack Developer · Web3 Builder
 
-*Computer Engineering student · Based in Nigeria · Open to remote roles*
+*Computer Engineering graduate · Based in Nigeria · Open to remote roles*
 
 [![Profile Views](https://komarev.com/ghpvc/?username=NicolasWealth&color=blueviolet&style=flat)](https://github.com/NicolasWealth)
 
@@ -13,9 +13,9 @@
 
 ## About Me
 
-I'm a Computer Engineering student and aspiring **AI Security Engineer**, building at the intersection of machine learning, cybersecurity, and blockchain. My focus is on **LLM red-teaming**, **adversarial ML**, and **securing AI infrastructure** — the exact threat surface that matters most as AI systems move into production.
+I'm a Computer Engineering graduate (induction & convocation scheduled 2027) and aspiring **AI Security Engineer**, building at the intersection of machine learning, cybersecurity, and blockchain. My focus is on **LLM red-teaming**, **adversarial ML**, and **securing AI infrastructure** — the exact threat surface that matters most as AI systems move into production.
 
-I back theory with practice: I've built a zero-trust proxy for AI APIs, a browser fingerprinting defense extension, a fake profile detection ML system, and a voice AI assistant with real-time emergency safety logic — all from scratch.
+I back theory with practice: I've built a zero-trust proxy for AI APIs, a browser fingerprinting defense extension, a multi-platform fake profile detection ML system, and a voice AI assistant with real-time emergency safety logic — all from scratch.
 
 Background: 8-month cybersecurity internship (networking, penetration testing) + self-taught across AI, Web3, and security tooling.
 
@@ -29,7 +29,7 @@ Background: 8-month cybersecurity internship (networking, penetration testing) +
 |---|---|---|
 | [**Zero-Trust AI Gateway**](https://github.com/NicolasWealth/Zero-Trust-AI-Gateway) | Node.js security proxy between your app and OpenAI. Auto-strips PII, blocks credential leaks, rate-limits per IP, logs every request for audit. Ships with a browser-based security console and Docker support. | Node.js · Express · Docker · GitHub Actions |
 | [**Sentinel OS**](https://github.com/NicolasWealth/Sentinel-OS) | Chrome extension that actively poisons canvas, audio, and WebGL browser fingerprinting APIs in real time. Shared live protection stats via Firebase Realtime DB (atomic increments across all installs). | React · Manifest V3 · Firebase · Vite |
-| [**AI Fake Twitter Profile Detection**](https://github.com/NicolasWealth/AI-Fake-Twitter-Profile-Detection) | End-to-end ML system to classify bot/fake social profiles. Includes a trained ML model, Python/Flask REST API, Supabase backend, browser extension, and analytics dashboard. | Python · JavaScript · Flask · Supabase · ML |
+| [**Smart Fake Profile Detection System**](https://github.com/NicolasWealth/smart-fake-profile-detection-system) | Final-year project. End-to-end ML system detecting fake profiles across Instagram, TikTok, and Facebook. Chrome extension extracts profile signals client-side, FastAPI backend runs a trained Random Forest classifier (92.9% recall), results stored in Supabase and surfaced on a React/Vite analytics dashboard. | Python · FastAPI · Random Forest · Supabase · React/Vite |
 | [**API Automation Suite**](https://github.com/NicolasWealth/api-automation-suite) | API testing suite focused on auth-flow security and error-handling. JWT extraction/injection, negative test matrix (400/401/404), schema validation, response-time assertions, Newman CI/CD integration. | Postman · JavaScript · Newman |
 
 ---
@@ -105,9 +105,9 @@ Background: 8-month cybersecurity internship (networking, penetration testing) +
 
 ## 🎯 Currently
 
-- 📖 Final year — Computer Engineering
+- 🎓 Final exams & final-year project complete — induction & convocation scheduled 2027
 - 🔬 Deepening expertise in LLM red-teaming & adversarial ML
-- 🏆 Targeting: CompTIA Security+, then CEH or OSCP post-graduation
+- 🏆 Targeting: CompTIA Security+, then CEH or OSCP
 - 💼 Open to remote AI Security / Security Engineering roles
 
 ---
