@@ -39,7 +39,6 @@ Background: eight month cybersecurity internship (networking, penetration testin
 |---|---|---|
 | [**PromiseChain**](https://github.com/NicolasWealth/Promise-Chain) &middot; [demo](https://promise-chain-three.vercel.app/) | Hackathon project. Lock ETH in a smart contract as a promise tied to GitHub proof of work (a merged pull request, closed issue or commit). The app checks the proof, the contract releases the money, and a public reputation history is kept. Runs on the Ethereum Sepolia test network. | TanStack Start &middot; wagmi &middot; viem &middot; Hardhat |
 
----|---|---|
 | [**Agent Hub**](https://github.com/NicolasWealth/agent-hub) | Decentralized AI agent marketplace on Hedera. Clients post tasks with HBAR budgets, agents claim them and submit proof of work via Hedera Consensus Service, payments settle on chain. | React &middot; TypeScript &middot; Hedera SDK |
 | [**Somnia Dream Vault**](https://github.com/NicolasWealth/somnia-dream-vault) | Reactive DeFi vault on Somnia L1. Users set trigger prices to autonomously protect assets via Solidity smart contracts with sub second finality. | Solidity &middot; React &middot; Wagmi &middot; Viem |
 | [**Nexus AI**](https://github.com/NicolasWealth/Nexus-ai) | Autonomous cross chain liquidity optimizer dashboard. Real time Firebase backed agent loop with a generative particle background. | React &middot; TypeScript &middot; Firebase |
